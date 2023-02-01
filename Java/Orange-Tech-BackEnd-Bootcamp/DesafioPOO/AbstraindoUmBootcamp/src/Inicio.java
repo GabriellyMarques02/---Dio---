@@ -1,6 +1,7 @@
+import dominio.*;
+
 import java.time.LocalDate;
 
-import dominio.*;
 
 public class Inicio{
     public static void main(String [] args){
