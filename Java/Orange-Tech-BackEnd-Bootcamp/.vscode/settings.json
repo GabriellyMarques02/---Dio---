@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "Desafios/DesafiosOrange/src",
+        "DesafioPOO/DesafioPOO",
         "DesafioPOO/AbstraindoUmBootcamp/src",
         "DesafioPOO/AbstraindoUmBootcamp",
-        "DesafioPOO/DesafioPOO"
+        "DesafioPOO"
     ]
 }

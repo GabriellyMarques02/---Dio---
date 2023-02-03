@@ -1,6 +1,9 @@
-import dominio.*;
-
 import java.time.LocalDate;
+
+import dominio.Bootcamp;
+import dominio.Curso;
+import dominio.Dev;
+import dominio.Mentoria;
 
 
 public class Inicio{
