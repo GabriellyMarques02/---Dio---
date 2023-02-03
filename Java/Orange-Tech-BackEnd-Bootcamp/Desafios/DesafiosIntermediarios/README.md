@@ -1,8 +1,8 @@
-## Desafios Intermediários 
+# Desafios Intermediários 
 
 Dominando algoritmos intermediários com Desafios de Código Java.
 
-# Sumário:
+## Sumário:
 
 1.Salvando Músicas
 2.Pontos na Carteira
