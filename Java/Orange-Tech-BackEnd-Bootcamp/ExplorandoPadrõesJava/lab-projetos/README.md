@@ -1,3 +1,3 @@
-#Explorando padrões de projeto
+##Explorando padrões de projeto
 
 Utilizando java puro e Spring
