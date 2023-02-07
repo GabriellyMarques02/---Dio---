@@ -1,4 +1,4 @@
-package src.main.gof.java;
+package gof.java;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
